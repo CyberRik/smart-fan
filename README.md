@@ -35,7 +35,7 @@ The workflow automates the following tasks:
 
 3. **Import the JSON Workflow**:
    - Inside your n8n instance, go to the **"Import"** section.
-   - Upload the `fan-sov-workflow.json` file from this repository.
+   - Upload the `smart fan.json` file from this repository.
 
 4. **Configure APIs**:
    - You'll need to set up API keys for SerpAPI, Google CSE, and the Twitter API in your n8n workflow to fetch the necessary data.

@@ -79,6 +79,9 @@ The findings can be viewed in the analysis report. Some potential recommendation
 1. **Content Strategy**: Focus on keywords with higher SoV for improved engagement.
 2. **Brand Positioning**: Address negative sentiment by responding to customer feedback on social media platforms.
 
-## Contribution
+## Workflow Overview
 
-If you want to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
+Below is the workflow for tracking and analyzing customer sentiment and Share of Voice (SoV):
+
+![Workflow Diagram](images/workflow.png)
+

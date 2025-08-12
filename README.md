@@ -83,5 +83,5 @@ The findings can be viewed in the analysis report. Some potential recommendation
 
 Below is the workflow for tracking and analyzing customer sentiment and Share of Voice (SoV):
 
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](workflow.png)
 

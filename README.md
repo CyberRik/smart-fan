@@ -18,7 +18,7 @@ The workflow automates the following tasks:
 - **n8n**: An open-source workflow automation tool used to create the entire pipeline.
 - **SerpAPI**: Used for scraping customer reviews and conducting searches on different keywords.
 - **Gemini Chat Model**: Used to perform sentiment analysis on customer reviews and social media mentions.
-- **Google Custom Search Engine (CSE)**: For searching YouTube for mentions of the "smart fan" keyword.
+- **Youtube Data API**: For searching YouTube for mentions of the "smart fan" keyword.
 - **Twitter API**: To collect tweets and perform sentiment analysis for "Atomberg smart fans."
 - **Python**: For additional analysis (if needed) and sentiment scoring, using libraries like `pandas` for data manipulation and `matplotlib` for visualizations.
 
@@ -53,7 +53,7 @@ The workflow automates the following tasks:
    - **Goal**: Collect customer reviews and analyze sentiment using the Gemini Chat model.
 
 2. **YouTube Mentions for "Smart Fan"**:
-   - **Source**: YouTube via Google CSE
+   - **Source**: YouTube via Youtube Data API
    - **Goal**: Find the number of mentions for Atomberg and calculate its Share of Voice.
 
 3. **Twitter Mentions**:

@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is designed to track and analyze customer sentiment and Share of Voice (SoV) for various fan brands, specifically Atomberg, Havells, Crompton, and Orient Electric. The pipeline uses a combination of tools like SerpAPI, Google Custom Search Engine (CSE), Twitter API, and the Gemini Chat model for sentiment analysis. The ultimate goal is to compare the brands' SoV across different keywords and platforms, such as YouTube and Twitter, to understand public sentiment and engagement.
+This project is designed to track and analyze customer sentiment and Share of Voice (SoV) for various fan brands, specifically Atomberg, Havells, Crompton, and Orient Electric. The pipeline uses a combination of tools like SerpAPI, YouTube API, Twitter API, and the Gemini Chat model for sentiment analysis. The ultimate goal is to compare the brands' SoV across different keywords and platforms, such as YouTube and Twitter, to understand public sentiment and engagement.
 
 The workflow automates the following tasks:
 

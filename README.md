@@ -9,7 +9,7 @@ The workflow automates the following tasks:
 
 - **Collecting customer reviews** from Flipkart for the brands: Atomberg, Havells, Crompton, and Orient Electric using SerpAPI.
 - **Sentiment analysis** on these reviews using the Gemini Chat model.
-- **Finding mentions on YouTube** for "smart fan" using Google CSE and calculating the number of mentions for Atomberg.
+- **Finding mentions on YouTube** for "smart fan" using Youtube Data API and calculating the number of mentions for Atomberg.
 - **Sentiment analysis on Twitter** using the Twitter API for Atomberg smart fans.
 - **Keyword-based analysis** for comparing the Share of Voice (SoV) of the brands using "bldc fans" and "energy efficient fans" as comparison keywords.
 

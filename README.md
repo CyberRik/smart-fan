@@ -38,7 +38,7 @@ The workflow automates the following tasks:
    - Upload the `smart fan.json` file from this repository.
 
 4. **Configure APIs**:
-   - You'll need to set up API keys for SerpAPI, Google CSE, and the Twitter API in your n8n workflow to fetch the necessary data.
+   - You'll need to set up API keys for SerpAPI, YouTube Data API, and the Twitter API in your n8n workflow to fetch the necessary data.
    - Make sure to set up any other required environment variables or credentials.
 
 5. **Run the Workflow**:
